@@ -13,14 +13,11 @@ In this iteration of the game there are the following:
 
 Be sure to have python and pygames downloaded, and enjoy the game!
 
-## About
 ### Screenshots
 
-Intro Screen:
-
 <span>
-<img src="https://github.com/darmoment/Frogger/blob/ff6fa96f2878be9c854c436b798baa79193baec2/images/FroggerIntroShot.png" alt = "Intro screen of Frogger game" width="300" height="250" display="inline">
-<img src="https://github.com/darmoment/Frogger/blob/35a6901f229ba2094d566b37f54c204f7bf05980/images/InGameShot.png" alt = "In game Frogger screenshot" width="300" height="250" display="inline">
-<img src="https://github.com/darmoment/Frogger/blob/35a6901f229ba2094d566b37f54c204f7bf05980/images/LostScreenShot.png" alt = "Lost screen of Frogger game" width="300" height="250" display="inline">
-<img src="https://github.com/darmoment/Frogger/blob/35a6901f229ba2094d566b37f54c204f7bf05980/images/WonScreenShot.png" alt = "Won screen of Frogger game" width="300" height="250" display="inline">
+<img src="https://github.com/darmoment/Frogger/blob/ff6fa96f2878be9c854c436b798baa79193baec2/images/FroggerIntroShot.png" alt = "Intro screen of Frogger game" width="250" height="200" display="inline">
+<img src="https://github.com/darmoment/Frogger/blob/35a6901f229ba2094d566b37f54c204f7bf05980/images/InGameShot.png" alt = "In game Frogger screenshot" width="250" height="200" display="inline">
+<img src="https://github.com/darmoment/Frogger/blob/35a6901f229ba2094d566b37f54c204f7bf05980/images/LostScreenShot.png" alt = "Lost screen of Frogger game" width="250" height="200" display="inline">
+<img src="https://github.com/darmoment/Frogger/blob/35a6901f229ba2094d566b37f54c204f7bf05980/images/WonScreenShot.png" alt = "Won screen of Frogger game" width="250" height="200" display="inline">
 </span>
