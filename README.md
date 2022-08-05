@@ -12,3 +12,9 @@ In this iteration of the game there are the following:
 * Three lives that can be wasted during the journey
 
 Be sure to have python and pygames downloaded, and enjoy the game!
+
+## About
+### Screenshots
+
+Intro Screen:
+![alt text](https://github.com/darmoment/Frogger/blob/ff6fa96f2878be9c854c436b798baa79193baec2/images/FroggerIntroShot.png "Intro screen of Frogger game")
