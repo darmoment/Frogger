@@ -2,7 +2,7 @@
 
 This is my remake of the classic 1981 Arcade Game, _Frogger_!  
 
-This code was created through [Python3](https://www.python.org) and the library [Pygames](https://www.pygame.org/news)!
+This code was created through [Python3](https://www.python.org) and the [Pygames](https://www.pygame.org/news) library!
 
 In this iteration of the game there are the following:
 * A playable Frogger character whose goal is to reach one of the three lilypads on the other side of the map
