@@ -17,4 +17,5 @@ Be sure to have python and pygames downloaded, and enjoy the game!
 ### Screenshots
 
 Intro Screen:
-<img src="https://github.com/darmoment/Frogger/blob/ff6fa96f2878be9c854c436b798baa79193baec2/images/FroggerIntroShot.png" alt = "Intro screen of Frogger game" width="250" height="250")
+
+<img src="https://github.com/darmoment/Frogger/blob/ff6fa96f2878be9c854c436b798baa79193baec2/images/FroggerIntroShot.png" alt = "Intro screen of Frogger game" width="250" height="250">
