@@ -264,7 +264,7 @@ class CoinLogThree(pygame.sprite.Sprite):
     #Gives the illusion of coin riding a log3 log
     def update(self):
         if self.rect.bottom < 0:
-            self.rect = self.image.get_rect(center = (610, 763))
+            self.rect = self.image.get_rect(center = (610, 765))
             self.rect.move_ip(0, self.ydir)
         else:
             self.rect.move_ip(0, self.ydir)
